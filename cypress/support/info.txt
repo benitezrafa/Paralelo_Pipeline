@@ -118,6 +118,11 @@ iniciar el servicio de jenkins: jenkins start
 19 - Agregar repositorio remoto: git remote add origin "url del repositorio"
 20 - Subir el repositorio a GitHub: git push -u origin main
 21 - Bajar cambios de la rama: git pull
+22 - Contenido del archivo .gitignore:
+        //node_modules/
+        *.mp4
+        *.jpg
+        *.png//
 
 
 
