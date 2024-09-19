@@ -128,3 +128,8 @@ iniciar el servicio de jenkins: jenkins start
 
 23.Project ID - Cypress dashboard
 npx cypress run --record --key f8643467-abd6-4691-aef8-721285385df0
+
+24.############### Datos Jenkins #################
+Usuario: BenitezRafa
+Pass: Rb06082011!
+email: rspbenitez@gmail.com
